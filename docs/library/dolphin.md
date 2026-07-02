@@ -78,6 +78,7 @@ Content that can be loaded by the dolphin-libretro core have the following file 
 - .gcz
 - .wad
 - .rvz
+- .m3u
 
 RetroArch database(s) that are associated with the dolphin-libretro core:
 
